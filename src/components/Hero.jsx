@@ -9,10 +9,7 @@ function Hero () {
                     <div id="hero-overlay-text" className="">
                         <div id='hero-overlay-text-banner' className='text-center sm:text-left text-white sm:pl-20'>
                             <h1 className="text-3xl sm:text-6xl font-bold">Drinking Water For All Cats</h1>
-                            <p className='text-xl md:text-3xl'>Meow Meow Meow</p>
-                            <div id='hero-overlay-text-button' className='text-center sm:text-left text-white pt-3'>
-                                <a href='/' className='bg-transparent hover:bg-gray-light text-white hover:text-black font-bold py-2 px-4 rounded border-solid border-2 border-white hover:border-transparent hover:duration-500'>Learn More</a>
-                            </div>  
+                            <p className='text-xl md:text-3xl md:max-w-3xl'>To provide clean, tasty, and crispy water in the most efficient manner to all people and cats of the world.</p>
                         </div>
                     </div>
                 </div>

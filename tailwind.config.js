@@ -7,12 +7,18 @@ export default {
   theme: {
     colors: {
       'cloudy': '#a7a8a4',
+      'elephant': '#cbddfb',
       'white': '#ffffff',
       'gray-dark': '#273444',
       'gray': '#8492a6',
       'gray-light': '#d3dce6',
       'black': '#000000',
       'transparent': 'transparent',
+      'g1': '#ccccbf',
+      'g2': '#7ca4c5',
+      'g3': '#6088bd',
+      'g4': '#416aa3',
+      'g5': '#144660',
     },
     extend: {
       animation: {
